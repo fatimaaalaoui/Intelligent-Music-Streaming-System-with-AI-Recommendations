@@ -169,6 +169,17 @@ music-streaming-ai-platform/
 - Demonstrate practical skills in Data Engineering, ML integration, and scalable application design  
 
 ---
+## How to Run
+
+### Backend
+cd backend
+npm install
+npm start
+
+### Frontend
+cd frontend
+npm install
+npm run dev
 
 ## About Me
 
